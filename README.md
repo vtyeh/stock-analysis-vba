@@ -1,4 +1,4 @@
-### The VBA of Wall Street
+# The VBA of Wall Street
 ## Using VBA scripting in Excel to analyze real stock market data. 
 
 I created a script that will loop through all the stocks on multiple worksheets by running it once and take the following info:
